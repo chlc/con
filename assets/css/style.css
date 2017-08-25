@@ -1,3 +1,8 @@
 body {
-	background-image: url(http://chlc.github.io/assets/images/pineapplecut_@2X.png);
+	background-image: url(pineapplecut_@2X.png);
+}
+.social{
+	border-style: solid;
+	border-size: 3px;
+    float:right;
 }
