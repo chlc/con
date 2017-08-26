@@ -11,6 +11,7 @@ body {
   top: 0;
   width: 100%;
   text-align: left;
+  margin-top: 70px;
 }
 
 .navbar a {
@@ -20,7 +21,8 @@ body {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 10px;
+
 }
 
 
