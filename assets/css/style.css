@@ -30,5 +30,11 @@ body {
 	border-style: solid;
 	border-size:3px;
 }
+div.wrapper{display:block; width:100%; margin:0; padding:0; text-align:left;}
 
+.row1, row1 a{color:#C0BAB6; background-color:#333333;} 
+
+#header, container, footer{display:block; width:960px; margin:0 auto;}
+
+nav ul{margin:0; padding:0; list-style:none;}
 
