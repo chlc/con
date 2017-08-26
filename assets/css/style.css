@@ -1,12 +1,16 @@
 body {
 	background-image: url(http://chlc.github.io/assets/images/pineapplecut_@2X.png);
 }
+.logo {
+  float: left;
+}
 .navbar {
   overflow: hidden;
   background-color: #333;
   position: fixed;
   top: 0;
   width: 100%;
+  text-align: left;
 }
 
 .navbar a {
