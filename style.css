@@ -1,0 +1,101 @@
+/**
+ * Float Layout Activity
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+/* INSTRUCTOR: Here is the filled out version of the float activity */
+
+body {
+  font-size: 24px;
+  line-height: 32px;
+  color: #333;
+}
+
+header {
+  padding: 20px;
+  margin-bottom: 20px;
+  color: #333;
+  background: #ccc;
+}
+
+section {
+  padding: 20px;
+  margin-bottom: 20px;
+  background: #ccc;
+}
+
+#left {
+  float: left;
+  width: 33.3%;
+  color: #fff;
+  background: #888;
+}
+
+#middle {
+  float: left;
+  width: 33.3%;
+  color: #fff;
+  background: #888;
+}
+
+#right {
+  float: left;
+  width: 33.3%;
+  color: #fff;
+  background: #888;
+}
+
+#full {
+  width: 50%;
+  float: left;
+  background: #eee;
+}
+
+#division {
+  padding: 20px;
+  margin-top: 20px;
+  width: 100%;
+  background: #888;
+}
+#article {
+  padding: 20px;
+  margin-top: 20px;
+  width: 100%;
+  background: #888;
+}
+#h {
+  padding: 20px;
+  margin-top: 20px;
+  width: 100%;
+  background: #fff;
+}
+#p {
+  padding: 20px;
+  margin-top: 20px;
+  width: 100%;
+  background: #fff;
+}
+
+#aside {
+  float: right;
+  width: 50%;
+  height: 200px;
+  padding: 20px;
+  margin-left: 60px;
+
+  bottom: 368px;
+  margin-bottom: 30px;
+  position: relative;
+  background: #fff;
+  border: 1px solid #eee;
+}
+
+footer {
+  padding: 20px;
+  clear: both;
+  background: #ccc;
+}
